@@ -42,7 +42,7 @@ After completing this assignment, you be able to effectively use
 2. Submit a pull request.
 3. Comment with a link to github pages for this project.
 
-**Keep in mind, Readme.md should not be the same readme. Fill it out with something new**
+**Keep in mind, Readme.md should not be the same readme. Fill it out with something new** **OK.... Here is your something new. LOL!!**
 
 ## Hard Mode
 

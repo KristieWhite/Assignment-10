@@ -1,0 +1,53 @@
+/* Hide paragraphs and bring back by javascript click */
+
+#accordian {
+    width: 500px;
+    height: 700px;
+}
+
+ul {
+    margin: 2em;
+    padding: 0;
+    list-style: none;
+}
+
+h2 {
+    background-color: rgb(0, 198, 216);
+    color: white;
+    padding: .5em 1em;
+    margin: 0;
+    border: 1px solid white;
+}
+
+h2:hover {
+    background-color: rgb(0, 218, 238);
+}
+
+li p {
+    padding: 0 1.5em;
+}
+
+.hide1 {
+    display: none;
+}
+
+.reveal1 {
+    display: block;
+}
+
+.hide2 {
+    display: none;
+}
+
+.reveal2  {
+    display: block;
+}
+
+.hide3 {
+    display: none;
+}
+
+.reveal3 {
+    display: block;
+}
+
